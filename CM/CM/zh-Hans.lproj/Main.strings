@@ -1,0 +1,207 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0eF-jt-Cys"; */
+"0eF-jt-Cys.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2.正在处理"; ObjectID = "42q-uJ-7iI"; */
+"42q-uJ-7iI.text" = "2.正在处理";
+
+/* Class = "UILabel"; text = "退出登录"; ObjectID = "6Oa-YK-qHo"; */
+"6Oa-YK-qHo.text" = "退出登录";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7kH-sQ-Nuf"; */
+"7kH-sQ-Nuf.text" = "Label";
+
+/* Class = "UILabel"; text = "违法建筑投诉由成都市规划执法监督局来统一处理，区域管园林局无权接受违法投诉。"; ObjectID = "82P-ON-IBK"; */
+"82P-ON-IBK.text" = "违法建筑投诉由成都市规划执法监督局来统一处理，区域管园林局无权接受违法投诉。";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Yr-h8-dwT"; */
+"8Yr-h8-dwT.text" = "Label";
+
+/* Class = "UILabel"; text = "区城管园林局的主要职责"; ObjectID = "BcS-Mp-6iC"; */
+"BcS-Mp-6iC.text" = "区城管园林局的主要职责";
+
+/* Class = "UILabel"; text = "新闻动态2"; ObjectID = "BnL-Kf-Z6O"; */
+"BnL-Kf-Z6O.text" = "新闻动态2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "DUW-Sq-9YE"; */
+"DUW-Sq-9YE.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "请投诉人姓名选填"; ObjectID = "DYY-Gy-lXB"; */
+"DYY-Gy-lXB.placeholder" = "请投诉人姓名选填";
+
+/* Class = "UIButton"; normalTitle = "请选择时间"; ObjectID = "G1W-u9-T2E"; */
+"G1W-u9-T2E.normalTitle" = "请选择时间";
+
+/* Class = "UIBarButtonItem"; title = "首页"; ObjectID = "Ic2-6w-wCZ"; */
+"Ic2-6w-wCZ.title" = "首页";
+
+/* Class = "UITextField"; placeholder = "请输入投诉标题"; ObjectID = "Ih2-Zh-Bt9"; */
+"Ih2-Zh-Bt9.placeholder" = "请输入投诉标题";
+
+/* Class = "UILabel"; text = "行政职责"; ObjectID = "JCj-XP-iSB"; */
+"JCj-XP-iSB.text" = "行政职责";
+
+/* Class = "UILabel"; text = "700m"; ObjectID = "JWj-Fa-r7f"; */
+"JWj-Fa-r7f.text" = "700m";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Jn2-BW-zl8"; */
+"Jn2-BW-zl8.text" = "Title";
+
+/* Class = "UILabel"; text = "行政职责"; ObjectID = "K3M-Bi-bdN"; */
+"K3M-Bi-bdN.text" = "行政职责";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kn2-lv-f0p"; */
+"Kn2-lv-f0p.text" = "Label";
+
+/* Class = "UISegmentedControl"; LqL-mx-Q0o.segmentTitles[0] = "1.事先告知"; ObjectID = "LqL-mx-Q0o"; */
+"LqL-mx-Q0o.segmentTitles[0]" = "1.事先告知";
+
+/* Class = "UISegmentedControl"; LqL-mx-Q0o.segmentTitles[1] = "2.处罚执行"; ObjectID = "LqL-mx-Q0o"; */
+"LqL-mx-Q0o.segmentTitles[1]" = "2.处罚执行";
+
+/* Class = "UISegmentedControl"; LqL-mx-Q0o.segmentTitles[2] = "3.案件完结"; ObjectID = "LqL-mx-Q0o"; */
+"LqL-mx-Q0o.segmentTitles[2]" = "3.案件完结";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MVF-FD-AIG"; */
+"MVF-FD-AIG.text" = "Label";
+
+/* Class = "UILabel"; text = "市规划局投诉电话：028-86259909"; ObjectID = "MXZ-Rd-qNm"; */
+"MXZ-Rd-qNm.text" = "市规划局投诉电话：028-86259909";
+
+/* Class = "UILabel"; text = "到这去"; ObjectID = "Nf7-Cn-5Ia"; */
+"Nf7-Cn-5Ia.text" = "到这去";
+
+/* Class = "UITextField"; placeholder = "请输入具体位置"; ObjectID = "NkZ-EE-sIM"; */
+"NkZ-EE-sIM.placeholder" = "请输入具体位置";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Nzs-fp-Flf"; */
+"Nzs-fp-Flf.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "请选择社区和街道"; ObjectID = "OMy-QE-fz0"; */
+"OMy-QE-fz0.normalTitle" = "请选择社区和街道";
+
+/* Class = "UILabel"; text = "短按选择上传资料，长按选择删除资料"; ObjectID = "ObH-A0-Cue"; */
+"ObH-A0-Cue.text" = "短按选择上传资料，长按选择删除资料";
+
+/* Class = "UILabel"; text = "513002198908146694"; ObjectID = "P7g-zm-kYW"; */
+"P7g-zm-kYW.text" = "513002198908146694";
+
+/* Class = "UILabel"; text = "XX商场内"; ObjectID = "PtK-Wu-wv7"; */
+"PtK-Wu-wv7.text" = "XX商场内";
+
+/* Class = "UILabel"; text = "环境卫生投诉"; ObjectID = "QEI-NH-OCH"; */
+"QEI-NH-OCH.text" = "环境卫生投诉";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "QeY-Rq-Vcl"; */
+"QeY-Rq-Vcl.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "确认提交"; ObjectID = "Qea-Sr-zpJ"; */
+"Qea-Sr-zpJ.normalTitle" = "确认提交";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "RFI-ed-Ywe"; */
+"RFI-ed-Ywe.text" = "Title";
+
+/* Class = "UILabel"; text = "标题："; ObjectID = "Rdb-El-mP6"; */
+"Rdb-El-mP6.text" = "标题：";
+
+/* Class = "UINavigationItem"; title = "金牛智慧城市"; ObjectID = "W2x-u7-7uE"; */
+"W2x-u7-7uE.title" = "金牛智慧城市";
+
+/* Class = "UILabel"; text = "1.等待受理"; ObjectID = "Z5S-jy-tvP"; */
+"Z5S-jy-tvP.text" = "1.等待受理";
+
+/* Class = "UILabel"; text = "环境卫生投诉"; ObjectID = "ZMl-r8-af3"; */
+"ZMl-r8-af3.text" = "环境卫生投诉";
+
+/* Class = "UITextField"; placeholder = "请投诉人编号选填"; ObjectID = "a2E-6s-Nnb"; */
+"a2E-6s-Nnb.placeholder" = "请投诉人编号选填";
+
+/* Class = "UITabBarItem"; title = "信息公开"; ObjectID = "a7a-Dl-CoH"; */
+"a7a-Dl-CoH.title" = "信息公开";
+
+/* Class = "UILabel"; text = "新闻动态1"; ObjectID = "aSB-vo-d4F"; */
+"aSB-vo-d4F.text" = "新闻动态1";
+
+/* Class = "UIButton"; normalTitle = "城管中队电话"; ObjectID = "aij-5N-iTk"; */
+"aij-5N-iTk.normalTitle" = "城管中队电话";
+
+/* Class = "UIButton"; normalTitle = "上传"; ObjectID = "cjd-fe-jhY"; */
+"cjd-fe-jhY.normalTitle" = "上传";
+
+/* Class = "UILabel"; text = "环境卫生投诉"; ObjectID = "dET-7X-1y6"; */
+"dET-7X-1y6.text" = "环境卫生投诉";
+
+/* Class = "UILabel"; text = "我的投诉"; ObjectID = "e5s-dE-HYm"; */
+"e5s-dE-HYm.text" = "我的投诉";
+
+/* Class = "UILabel"; text = "*"; ObjectID = "eMa-s3-9Je"; */
+"eMa-s3-9Je.text" = "*";
+
+/* Class = "UILabel"; text = "投诉资料：（点击查看详情）"; ObjectID = "efN-CN-FRU"; */
+"efN-CN-FRU.text" = "投诉资料：（点击查看详情）";
+
+/* Class = "UILabel"; text = "被投诉人编号："; ObjectID = "fZW-Vx-Gqd"; */
+"fZW-Vx-Gqd.text" = "被投诉人编号：";
+
+/* Class = "UILabel"; text = "环境卫生投诉"; ObjectID = "fhp-fC-oTq"; */
+"fhp-fC-oTq.text" = "环境卫生投诉";
+
+/* Class = "UISegmentedControl"; fzF-L7-kdh.segmentTitles[0] = "上传资料"; ObjectID = "fzF-L7-kdh"; */
+"fzF-L7-kdh.segmentTitles[0]" = "上传资料";
+
+/* Class = "UISegmentedControl"; fzF-L7-kdh.segmentTitles[1] = "下载样表"; ObjectID = "fzF-L7-kdh"; */
+"fzF-L7-kdh.segmentTitles[1]" = "下载样表";
+
+/* Class = "UILabel"; text = "1.金牛区抚琴路88号公共厕所"; ObjectID = "g6Y-sC-4q4"; */
+"g6Y-sC-4q4.text" = "1.金牛区抚琴路88号公共厕所";
+
+/* Class = "UIButton"; normalTitle = "确认提交"; ObjectID = "glz-bh-hNE"; */
+"glz-bh-hNE.normalTitle" = "确认提交";
+
+/* Class = "UILabel"; text = "张某某"; ObjectID = "gvF-6J-rmL"; */
+"gvF-6J-rmL.text" = "张某某";
+
+/* Class = "UILabel"; text = "免费"; ObjectID = "gz3-zu-j4E"; */
+"gz3-zu-j4E.text" = "免费";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "hJq-LR-kqJ"; */
+"hJq-LR-kqJ.title" = "首页";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "hRw-8R-bhi"; */
+"hRw-8R-bhi.text" = "Detail";
+
+/* Class = "UILabel"; text = "内容："; ObjectID = "hzG-us-Wna"; */
+"hzG-us-Wna.text" = "内容：";
+
+/* Class = "UILabel"; text = "3.处理完毕"; ObjectID = "iCQ-u2-McE"; */
+"iCQ-u2-McE.text" = "3.处理完毕";
+
+/* Class = "UILabel"; text = "请输入您要反馈的意见："; ObjectID = "jXI-UM-sh0"; */
+"jXI-UM-sh0.text" = "请输入您要反馈的意见：";
+
+/* Class = "UINavigationItem"; title = "金牛智慧城市"; ObjectID = "kUa-Zd-IU3"; */
+"kUa-Zd-IU3.title" = "金牛智慧城市";
+
+/* Class = "UILabel"; text = "等待审核"; ObjectID = "lhD-lz-MjE"; */
+"lhD-lz-MjE.text" = "等待审核";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lrZ-Ow-hDK"; */
+"lrZ-Ow-hDK.text" = "Label";
+
+/* Class = "UILabel"; text = "被投诉人："; ObjectID = "mI7-go-FHb"; */
+"mI7-go-FHb.text" = "被投诉人：";
+
+/* Class = "UIButton"; normalTitle = "城管中队电话"; ObjectID = "p1N-47-xh5"; */
+"p1N-47-xh5.normalTitle" = "城管中队电话";
+
+/* Class = "UIButton"; normalTitle = "重新注册"; ObjectID = "rwt-OA-YQp"; */
+"rwt-OA-YQp.normalTitle" = "重新注册";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sdj-r2-rcT"; */
+"sdj-r2-rcT.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "确认提交"; ObjectID = "vyZ-hp-0l9"; */
+"vyZ-hp-0l9.normalTitle" = "确认提交";
+
+/* Class = "UILabel"; text = "新闻动态3"; ObjectID = "xBt-ke-6ft"; */
+"xBt-ke-6ft.text" = "新闻动态3";

@@ -1,0 +1,24 @@
+source 'https://github.com/Artsy/Specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '8.0'
+inhibit_all_warnings!
+
+
+pod 'SDWebImage', '~> 3.7.1'
+pod 'UIActivityIndicator-for-SDWebImage'
+pod 'MBProgressHUD', '~> 0.9'
+pod 'SSKeychain', '~> 1.2.2'
+pod 'IQKeyboardManager', '~> 3.2.0.3'
+pod 'SVPullToRefresh', '~> 0.4.1'
+pod 'ReactiveCocoa', '~> 2.5'
+pod 'AFNetworking', '~> 2.5.3'
+pod 'Mantle', '~> 2.0.5'
+pod 'Reachability', '~> 3.2'
+pod 'TSMessages', '~> 0.9.12'
+pod 'AFNetworking-RACExtensions', '~> 0.1.8'
+pod 'SSKeychain', '~> 1.2.2'
+pod 'SVProgressHUD', '~> 2.0-beta'
+pod 'IQMediaPickerController', '~> 0.0.2'
+pod 'IQActionSheetPickerView', '~> 1.0.2'
+pod 'Qiniu', '~> 7.0.15'

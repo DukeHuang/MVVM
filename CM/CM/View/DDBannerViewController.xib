@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DDBannerViewController">
+            <connections>
+                <outlet property="_rightView" destination="8kK-ks-l10" id="HsQ-rZ-OVK"/>
+                <outlet property="bannerView" destination="tsz-vS-xss" id="pVs-97-3oG"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="105"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8kK-ks-l10" userLabel="RightView">
+                    <rect key="frame" x="215" y="0.0" width="105" height="105"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="message_logo.png" translatesAutoresizingMaskIntoConstraints="NO" id="d9I-CY-0b0">
+                            <rect key="frame" x="32" y="28" width="40" height="40"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="d9I-CY-0b0" secondAttribute="height" multiplier="1:1" id="VmT-0M-fDq"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="资讯" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EQ0-fZ-YGA">
+                            <rect key="frame" x="35" y="76" width="34" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="EQ0-fZ-YGA" secondAttribute="height" multiplier="34:21" id="YBs-aj-OLD"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IlN-CS-coX">
+                            <rect key="frame" x="0.0" y="0.0" width="105" height="105"/>
+                            <connections>
+                                <action selector="btnPressed:" destination="-1" eventType="touchUpInside" id="RZP-TV-F7O"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="EQ0-fZ-YGA" secondAttribute="bottom" constant="8" id="16i-rT-wgr"/>
+                        <constraint firstItem="d9I-CY-0b0" firstAttribute="leading" secondItem="8kK-ks-l10" secondAttribute="leading" constant="32" id="2qg-Qn-TiS"/>
+                        <constraint firstItem="EQ0-fZ-YGA" firstAttribute="leading" secondItem="8kK-ks-l10" secondAttribute="leading" constant="35" id="6Fp-Yq-B1o"/>
+                        <constraint firstAttribute="trailing" secondItem="EQ0-fZ-YGA" secondAttribute="trailing" constant="36" id="AA0-CG-d33"/>
+                        <constraint firstItem="d9I-CY-0b0" firstAttribute="top" secondItem="8kK-ks-l10" secondAttribute="top" constant="28" id="AdX-rO-CEl"/>
+                        <constraint firstAttribute="width" secondItem="8kK-ks-l10" secondAttribute="height" multiplier="1:1" id="NVH-zO-HHD"/>
+                        <constraint firstAttribute="trailing" secondItem="d9I-CY-0b0" secondAttribute="trailing" constant="33" id="Pr1-1r-L8f"/>
+                        <constraint firstItem="EQ0-fZ-YGA" firstAttribute="top" secondItem="d9I-CY-0b0" secondAttribute="bottom" constant="8" id="c5g-HI-TjS"/>
+                        <constraint firstAttribute="bottom" secondItem="IlN-CS-coX" secondAttribute="bottom" id="dLL-L5-ADc"/>
+                        <constraint firstAttribute="trailing" secondItem="IlN-CS-coX" secondAttribute="trailing" id="k2T-PQ-NMh"/>
+                        <constraint firstItem="IlN-CS-coX" firstAttribute="leading" secondItem="8kK-ks-l10" secondAttribute="leading" id="lDr-K9-qD8"/>
+                        <constraint firstItem="IlN-CS-coX" firstAttribute="top" secondItem="8kK-ks-l10" secondAttribute="top" id="mWd-vJ-TLg"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tsz-vS-xss" userLabel="LeftView" customClass="CHXBannerView">
+                    <rect key="frame" x="0.0" y="0.0" width="215" height="105"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="8kK-ks-l10" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="J1X-4u-kFD"/>
+                <constraint firstItem="tsz-vS-xss" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="UDe-ru-VxK"/>
+                <constraint firstAttribute="bottom" secondItem="tsz-vS-xss" secondAttribute="bottom" id="X1K-8V-ewj"/>
+                <constraint firstAttribute="trailing" secondItem="8kK-ks-l10" secondAttribute="trailing" id="YUz-Bg-aRY"/>
+                <constraint firstItem="8kK-ks-l10" firstAttribute="leading" secondItem="tsz-vS-xss" secondAttribute="trailing" id="Yy3-1J-2JU"/>
+                <constraint firstAttribute="bottom" secondItem="8kK-ks-l10" secondAttribute="bottom" id="kNg-il-fuZ"/>
+                <constraint firstItem="tsz-vS-xss" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="oeG-np-eUX"/>
+                <constraint firstItem="8kK-ks-l10" firstAttribute="leading" secondItem="tsz-vS-xss" secondAttribute="trailing" id="xyK-Zg-VTJ"/>
+                <constraint firstItem="8kK-ks-l10" firstAttribute="height" secondItem="i5M-Pr-FkT" secondAttribute="height" id="yLR-Sz-fHD"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="682" y="192.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="message_logo.png" width="61" height="60"/>
+    </resources>
+</document>

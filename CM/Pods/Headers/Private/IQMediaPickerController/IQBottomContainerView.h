@@ -1,0 +1,1 @@
+../../../IQMediaPickerController/MediaPickerController/IQMediaPickerController/IQMediaCaptureController/IQMediaCaptureView/IQBottomContainerView/IQBottomContainerView.h

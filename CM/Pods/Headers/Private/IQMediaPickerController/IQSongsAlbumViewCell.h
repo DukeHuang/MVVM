@@ -1,0 +1,1 @@
+../../../IQMediaPickerController/MediaPickerController/IQMediaPickerController/IQAudioPickerController/IQAudioPIckerViewControllers/IQAudioPickerTableViewCell/IQSongsAlbumViewCell.h
